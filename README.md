@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marvin Mtama</h1>
-<h3 align="center">A passionate frontend developer from Malawi focused on UI/UX Designs for both web applications and mobile applications.</h3>
+<h3 align="center">A passionate frontend developer from Malawi focused on UI/UX Designs for both web applications and mobile applications. I'm also a graphic designer with a keen eye for details and I also have experience in the design and development of Arduino projects.</h3>
 
 - 📫 How to reach me **mtamamarvin@gmail.com**
 
